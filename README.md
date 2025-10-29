@@ -66,7 +66,6 @@ jupyter notebook OptionPricer.ipynb
 - **scipy.stats** – cumulative distribution functions (normal, etc.)
 - **torch** – GPU-accelerated simulation
 - **matplotlib** – visualizations
-- **time** – performance measurement
 
 ---
 
@@ -76,7 +75,6 @@ The notebook demonstrates:
 - Delta evolution and its impact on hedging strategies
 - Behavior of exotic products (Asian, Barrier, Lookback)
 
-Visualizations illustrate estimator precision, bias, and variance.
 
 ---
 
