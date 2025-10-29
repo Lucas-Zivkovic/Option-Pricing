@@ -20,7 +20,7 @@ The notebook explores pricing and hedging (delta hedging) for several option typ
 - Analytical vs numerical comparison
 - Greeks calculation (Δ)
 - Variance reduction and Monte Carlo convergence
-- Error analysis and visualizations (volatility smile, delta, convergence)
+- Error analysis and visualizations (delta, convergence)
 
 ---
 
@@ -103,7 +103,7 @@ Master's student in Finance, Applied Mathematics & Computer Science
 Passionate about quantitative finance, numerical simulation, and machine learning applied to financial markets.
 
 📧 lucas.zivkovic0@gmail.com  
-🔗 [LinkedIn](#https://linkedin.com/in/lucas-zivkovic) | [GitHub](#https://github.com/Lucas-Zivkovic)
+🔗 [LinkedIn](https://linkedin.com/in/lucas-zivkovic) | [GitHub](https://github.com/Lucas-Zivkovic)
 
 ---
 
