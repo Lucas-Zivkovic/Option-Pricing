@@ -39,7 +39,7 @@ OptionPricer/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your_username>/OptionPricer.git
+git clone https://github.com/Lucas-Zivkovic/Option-Pricing.git
 cd OptionPricer
 ```
 
